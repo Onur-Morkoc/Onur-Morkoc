@@ -3,14 +3,14 @@
 <img align="right" src="https://katiponline.com/klavye-oyunlari/rekor.gif" height="90%" style="border-radius:10px" />
  
 <p>
-👨‍💻 Hello, I'm Onur Morkoc. My deep passion for the world of software development began with a specific focus on web and application development.My enthusiasm for tackling complexities and transforming creative ideas into functional solutions drives me to become a better software developer every day.
+Hello, I'm Onur Morkoc. My deep passion for the world of software development began with a specific focus on web and application development.My enthusiasm for tackling complexities and transforming creative ideas into functional solutions drives me to become a better software developer every day.
 
 Bringing projects to life and making a real-world impact is a top priority for me. In each project, I strive to identify problems, develop strategic approaches, and utilize the power of technology to create value for users. 
 </p>
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
 
-## Skills  
+## 🎉 Skills  
 
 <div align=center >
 
@@ -29,7 +29,7 @@ Property                | Data
 **Version Control**     | <div style="display:flex; align-items:center; gap:12px; padding: 0 0 12px 12px" ><a href="https://git-scm.com/doc"> <img src="https://skillicons.dev/icons?i=git&perline=1" width="28px" /></a><a href="https://docs.github.com"> <img src="https://skillicons.dev/icons?i=github&perline=1" width="28px" /></a></div>
 **Languages and Tools** | <div style="display:flex; align-items:center; gap:12px; padding: 0 0 12px 12px" ><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> <img src="https://skillicons.dev/icons?i=cs#&perline=1" width="28px" /></a><a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python&perline=1" width="28px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=javascript&perline=1" width="28px" /></a><a href="https://www.typescriptlang.org/docs/"> <img src="https://skillicons.dev/icons?i=typescript&perline=1" width="28px" /></a><a href="https://code.visualstudio.com/docs"> <img src="https://skillicons.dev/icons?i=vscode&perline=1" width="28px" /></a><a href="https://www.kernel.org/doc/html/latest/"> <img src="https://skillicons.dev/icons?i=linux&perline=1" width="28px" /></a><a href="https://learning.postman.com/docs/introduction/overview/"> <img src="https://skillicons.dev/icons?i=postman&perline=1" width="28px" /></a><a href="https://redux.js.org/"> <img src="https://skillicons.dev/icons?i=redux&perline=1" width="28px" /></a></div>
 
-## 💼 Github Activite
+## 👨🏻‍💻 Github Activite
 <table align="center" border="none">
 <tr border="none">
 <td width="50%" align="center">
@@ -51,7 +51,7 @@ Property                | Data
 </tr>
 </table>
 
-## 💼 Statistics
+## 🚀 Statistics
 
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Onur-Morkoc&theme=2077" height="180em" />
