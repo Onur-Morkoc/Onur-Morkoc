@@ -4,7 +4,7 @@
  
 <p>I'm a passionate software developer with a focus on web and application development. I thrive on turning ideas into functional and elegant solutions.</p>
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 ## Skills  
 
