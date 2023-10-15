@@ -8,7 +8,7 @@ Hello, I'm Onur Morkoc. My deep passion for the world of software development be
 Bringing projects to life and making a real-world impact is a top priority for me. In each project, I strive to identify problems, develop strategic approaches, and utilize the power of technology to create value for users. 
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
 ## 🎉 Skills  
 
