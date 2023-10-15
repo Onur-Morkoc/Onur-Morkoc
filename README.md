@@ -1,5 +1,56 @@
-Hi, I'm Onur 👋
+# Hello, I'm Onur Morkoc! 👋
+ 
+<img align="right" src="https://katiponline.com/klavye-oyunlari/rekor.gif" height="100%" style="border-radius:10px" />
+ 
+<p>I'm a passionate software developer with a focus on web and application development. I thrive on turning ideas into functional and elegant solutions.</p>
 
-- ✍ I'm currently working on Kodluyoruz 
-- 📚 I'm currently learning HTML, CSS, JS, ReactJS, ExpressJS 
+<br><br><br><br><br><br><br><br><br>
 
+## Skills  
+
+<div align=center >
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Onur-Morkoc&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
+</div>
+
+## 💼 Technology Stack
+
+Property                | Data  
+------------------------|------
+**Front-end**           | <div style="display:flex; align-items:center; gap:12px; padding: 0 0 12px 12px" ><a href="https://html.spec.whatwg.org/multipage/"> <img src="https://skillicons.dev/icons?i=html&perline=1" width="28px" /></a><a href="https://www.w3.org/Style/CSS/"> <img src="https://skillicons.dev/icons?i=css&perline=1" width="28px" /></a><a href="https://sass-lang.com/documentation/"> <img src="https://skillicons.dev/icons?i=sass&perline=1" width="28px" /></a><a href="https://react.dev/"> <img src="https://skillicons.dev/icons?i=react&perline=1" width="28px" /></a><a href="https://nextjs.org/docs"> <img src="https://skillicons.dev/icons?i=nextjs&perline=1" width="28px" /></a></div>
+**Back-end**            | <div style="display:flex; align-items:center; gap:12px; padding: 0 0 12px 12px" ><a href="https://nodejs.org/en/docs"> <img src="https://skillicons.dev/icons?i=nodejs&perline=1" width="28px" /></a><a href="https://expressjs.com/"> <img src="https://skillicons.dev/icons?i=express&perline=1" width="28px" /></a><a href="https://docs.nestjs.com/"> <img src="https://skillicons.dev/icons?i=nestjs&perline=1" width="28px" /></a></div>
+**Database**            | <div style="display:flex; align-items:center; gap:12px; padding: 0 0 12px 12px" ><a href="https://www.mongodb.com/docs/"> <img src="https://skillicons.dev/icons?i=mongodb&perline=1" width="28px" /></a><a href="https://dev.mysql.com/doc/"> <img src="https://skillicons.dev/icons?i=mysql&perline=1" width="28px" /></a></div>
+**Version Control**     | <div style="display:flex; align-items:center; gap:12px; padding: 0 0 12px 12px" ><a href="https://git-scm.com/doc"> <img src="https://skillicons.dev/icons?i=git&perline=1" width="28px" /></a><a href="https://docs.github.com"> <img src="https://skillicons.dev/icons?i=github&perline=1" width="28px" /></a></div>
+**Languages and Tools** | <div style="display:flex; align-items:center; gap:12px; padding: 0 0 12px 12px" ><a href="https://learn.microsoft.com/en-us/dotnet/csharp/"> <img src="https://skillicons.dev/icons?i=cs#&perline=1" width="28px" /></a><a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python&perline=1" width="28px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://skillicons.dev/icons?i=javascript&perline=1" width="28px" /></a><a href="https://www.typescriptlang.org/docs/"> <img src="https://skillicons.dev/icons?i=typescript&perline=1" width="28px" /></a><a href="https://code.visualstudio.com/docs"> <img src="https://skillicons.dev/icons?i=vscode&perline=1" width="28px" /></a><a href="https://www.kernel.org/doc/html/latest/"> <img src="https://skillicons.dev/icons?i=linux&perline=1" width="28px" /></a><a href="https://learning.postman.com/docs/introduction/overview/"> <img src="https://skillicons.dev/icons?i=postman&perline=1" width="28px" /></a><a href="https://redux.js.org/"> <img src="https://skillicons.dev/icons?i=redux&perline=1" width="28px" /></a></div>
+
+## 💼 Github Activite
+<table align="center" border="none">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  src="https://github-readme-stats.vercel.app/api?username=Onur-Morkoc&show_icons=true&locale=en&theme=dark&text_color=ffffff&repo=convoychat"
+    alt="Onur-Morkoc" width="100%" />
+
+  <br></br>
+  <br></br>
+  
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Onur-Morkoc&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Onur-Morkoc" width="100%"/>
+</td>
+
+<td width="100%" align="center">
+
+<img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Onur-Morkoc&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" height="100%" width="100%"/>
+  
+  </td>
+</tr>
+</table>
+
+## 💼 Statistics
+
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Onur-Morkoc&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Onur-Morkoc&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Onur-Morkoc&theme=2077" height="170em" style="margin-top:24px" />
+</div>
