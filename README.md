@@ -33,7 +33,6 @@ Property                | Data
 <table align="center" border="none">
 <tr border="none">
 <td width="50%" align="center">
-  
   <img  src="https://github-readme-stats.vercel.app/api?username=Onur-Morkoc&show_icons=true&locale=en&theme=dark&text_color=ffffff&repo=convoychat"
     alt="Onur-Morkoc" width="100%" />
 
