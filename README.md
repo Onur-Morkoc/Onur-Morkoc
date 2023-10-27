@@ -2,7 +2,7 @@
  
 <img align="right" src="https://katiponline.com/klavye-oyunlari/rekor.gif" height="90%" style="border-radius:10px" />
  
-<p>
+<p> 
 Hello, I'm Onur Morkoc. My deep passion for the world of software development began with a specific focus on web and application development. My enthusiasm for tackling complexities and transforming creative ideas into functional solutions drives me to become a better software developer every day.
 
 Bringing projects to life and making a real-world impact is a top priority for me. In each project, I strive to identify problems, develop strategic approaches, and utilize the power of technology to create value for users. 
